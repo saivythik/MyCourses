@@ -1,4 +1,6 @@
-# MyCourses
+# My Courses
+
+Author: [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
 ## Coursera
 
@@ -8,3 +10,6 @@
 
 [Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module3-solution/)
 
+[Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module4-solution/)
+
+[Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module5-solution/)
