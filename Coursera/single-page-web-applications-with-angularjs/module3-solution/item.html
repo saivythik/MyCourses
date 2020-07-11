@@ -1,0 +1,6 @@
+<div class="itemList">
+  <ol>
+    <li ng-repeat="item in c.found track by $index">{{item}} <button type="button" class="btn" ng-click="c.onremove({index: $index})">Don't want this one!</button></li>
+  </ol>
+  <div ng-if="c.error()" class="error">Nothing found!!</div>
+</div>
