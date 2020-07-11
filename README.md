@@ -1,17 +1,15 @@
-# My Courses
-
-Author: [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
+# [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
 ## Coursera
 
 #### HTML, CSS, and Javascript for Web Developers
 
-[full course code](https://github.com/jhu-ep-coursera/fullstack-course4/)
+[Full course code](https://github.com/jhu-ep-coursera/fullstack-course4/)
 
-[Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module2-solution/)
+[My module  solutions](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
 
-[Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module3-solution/)
+#### Single Page Web Applications with AngularJS
 
-[Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module4-solution/)
+[Full course code](https://github.com/jhu-ep-coursera/fullstack-course5/)
 
-[Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module5-solution/)
+[My module solutions](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
