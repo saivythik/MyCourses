@@ -2,9 +2,9 @@
 
 # Coursera
 
-### [HTML, CSS, and Javascript for Web Developers](Coursera---html-css-javascript-for-web-developers.jpg)
+### [HTML, CSS, and Javascript for Web Developers](TDBRR3CVHGFY.jpg)
 
-### [Single Page Web Applications with AngularJS](Coursera---single-page-web-applications-with-angularjs.jpg)
+### [Single Page Web Applications with AngularJS](#)
 
 
-&copy; Copyright 2020, All right reserved.
+#### &copy; Copyright 2020, All right reserved.

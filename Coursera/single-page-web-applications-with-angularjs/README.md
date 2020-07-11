@@ -2,7 +2,7 @@
 
 ## [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
-#### Single Page Web Applications with AngularJS
+### Single Page Web Applications with AngularJS
 
 [full course code](https://github.com/jhu-ep-coursera/fullstack-course5/)
 
@@ -17,4 +17,4 @@
 [Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module5-solution/)
 
 
-&copy; Copyright 2020, All right reserved.
+#### &copy; Copyright 2020, All right reserved.

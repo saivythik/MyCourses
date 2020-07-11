@@ -4,7 +4,7 @@
 
 #### HTML, CSS, and Javascript for Web Developers
 
-[Certificate](#) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
+[Certificate](Certificates/TDBRR3CVHGFY.jpg) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
 
 #### Single Page Web Applications with AngularJS
 
@@ -12,4 +12,4 @@
 
 
 
-&copy; Copyright 2020, All right reserved.
+#### &copy; Copyright 2020, All right reserved.
