@@ -4,7 +4,7 @@
 
 ### HTML, CSS, and Javascript for Web Developers
 
-[Certificate](Certificates/TDBRR3CVHGFY.jpg)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/TDBRR3CVHGFY.jpg)
 
 [full course code](https://github.com/jhu-ep-coursera/fullstack-course4/)
 
