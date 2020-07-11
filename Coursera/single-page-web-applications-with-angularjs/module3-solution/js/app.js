@@ -1,103 +1,74 @@
 (function() {
-  'use strict';
+    'use strict';
 
-angular.module("NarrowItDownApp", [])
-.controller("NarrowItDownController", NarrowItDownController)
-.service("MenuSearchService", MenuSearchService)
-.directive("foundItems", FoundItems);
+    angular.module('NarrowItDownApp', [])
+        .controller('NarrowItDownController', NarrowItDownController)
+        .service('MenuSearchService', MenuSearchService)
+        .constant('ApiBasePath', "https://davids-restaurant.herokuapp.com")
+        .directive('foundItems', FoundItems);
 
+    function FoundItems() {
+        var ddo = {
+            restrict: 'E',
+            templateUrl: 'foundItems.html',
+            scope: {
+                foundItems: '<',
+                onEmpty: '<',
+                onRemove: '&'
+            },
+            controller: NarrowItDownController,
+            controllerAs: 'menu',
+            bindToController: true
+        };
 
-function FoundItems() {
-  var ddo = {
-    templateUrl: 'item.html',
-    scope: {
-      found: '<list',
-      onremove: '&'
-    },
-    controller: DirectiveController,
-    controllerAs: 'c',
-    bindToController: true
-  };
-
-  return ddo;
-}
-
-
-
-function DirectiveController() {
-  var c = this;
-
-  c.error = function () {
-    if (c.found == undefined) {
-      return false;
+        return ddo;
     }
 
-    else {
-      if ((c.found).length == 0) {
-        return true;
-      }
-      else {
-        return false;
-      }
-    }
-  };
+    NarrowItDownController.$inject = ['MenuSearchService'];
 
-}
+    function NarrowItDownController(MenuSearchService) {
+        var menu = this;
+        menu.shortName = '';
 
+        menu.matchedMenuItems = function(searchTerm) {
+            var promise = MenuSearchService.getMatchedMenuItems(searchTerm);
 
+            promise.then(function(items) {
+                if (items && items.length > 0) {
+                    menu.message = '';
+                    menu.found = items;
+                } else {
+                    menu.message = 'Nothing found!';
+                    menu.found = [];
+                }
+            });
+        };
 
-
-NarrowItDownController.$inject = ['MenuSearchService'];
-function NarrowItDownController(MenuSearchService) {
-  var ctrl = this;
-  var itemList = [];
-  ctrl.searchTerm = "";
-
-  ctrl.narrow = function () {
-    ctrl.found = [];
-    var promise= MenuSearchService.getMatchedMenuItems(ctrl.searchTerm);
-    promise.then(function (response) {
-
-      itemList = response.data;
-
-      if ((ctrl.searchTerm) != 0) {
-        for (var i = 0; i < itemList.menu_items.length; i++) {
-          var item = itemList.menu_items[i].name;
-          if (item.toLowerCase().search((ctrl.searchTerm).toLowerCase()) != -1) {
-            (ctrl.found).push(item);
-          }
+        menu.removeMenuItem = function(itemIndex) {
+            menu.found.splice(itemIndex, 1);
         }
-      }
+    }
 
-    },
-    function () {
-      console.log("Error");
-    });
+    MenuSearchService.$inject = ['$http', 'ApiBasePath'];
 
-  };
+    function MenuSearchService($http, ApiBasePath) {
+        var service = this;
 
+        service.getMatchedMenuItems = function(searchTerm) {
+            return $http({
+                method: "GET",
+                url: (ApiBasePath + "/menu_items.json")
+            }).then(function(response) {
+                var foundItems = [];
 
-  ctrl.remove = function (index) {
-    (ctrl.found).splice(index, 1);
-  };
-}
+                for (var i = 0; i < response.data['menu_items'].length; i++) {
+                    if (searchTerm.length > 0 && response.data['menu_items'][i]['description'].toLowerCase().indexOf(searchTerm) !== -1) {
+                        foundItems.push(response.data['menu_items'][i]);
+                    }
+                }
 
-
-
-
-MenuSearchService.$inject = ['$http'];
-function MenuSearchService($http) {
-  var service = this;
-
-  service.getMatchedMenuItems = function () {
-    var response = $http ({
-      url: "https://davids-restaurant.herokuapp.com/menu_items.json"
-    });
-
-    return response;
-  };
-
-
-}
-
-}());
+                return foundItems;
+            });
+        };
+    }
+})();
