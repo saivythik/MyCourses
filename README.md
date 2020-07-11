@@ -6,10 +6,13 @@
 
 [Full course code](https://github.com/jhu-ep-coursera/fullstack-course4/)
 
-[My module  solutions](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
+[My solutions](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
 
 #### Single Page Web Applications with AngularJS
 
 [Full course code](https://github.com/jhu-ep-coursera/fullstack-course5/)
 
-[My module solutions](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
+[My solutions](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
+
+
+&copy; Copyright 2020, All right reserved.

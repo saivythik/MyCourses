@@ -1,6 +1,6 @@
-# [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
+# Coursera
 
-## Coursera
+## [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
 #### Single Page Web Applications with AngularJS
 
@@ -15,3 +15,6 @@
 [Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module4-solution/)
 
 [Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module5-solution/)
+
+
+&copy; Copyright 2020, All right reserved.

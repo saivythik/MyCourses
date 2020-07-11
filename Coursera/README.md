@@ -1,29 +1,18 @@
-# [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
+# Coursera
 
-## Coursera
+## [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
 #### HTML, CSS, and Javascript for Web Developers
 
-[full course code](https://github.com/jhu-ep-coursera/fullstack-course4/)
+[Full course code](https://github.com/jhu-ep-coursera/fullstack-course4/)
 
-[Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module2-solution/)
-
-[Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module3-solution/)
-
-[Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module4-solution/)
-
-[Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module5-solution/)
+[My solutions](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
 
 #### Single Page Web Applications with AngularJS
 
-[full course code](https://github.com/jhu-ep-coursera/fullstack-course5/)
+[Full course code](https://github.com/jhu-ep-coursera/fullstack-course5/)
 
-[Module 1 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module1-solution/)
+[My solutions](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
 
-[Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module2-solution/)
 
-[Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module3-solution/)
-
-[Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module4-solution/)
-
-[Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module5-solution/)
+&copy; Copyright 2020, All right reserved.

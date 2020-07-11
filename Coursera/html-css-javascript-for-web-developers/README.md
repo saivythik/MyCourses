@@ -1,6 +1,6 @@
-# [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
+# Coursera
 
-## Coursera
+## [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
 #### HTML, CSS, and Javascript for Web Developers
 
@@ -13,3 +13,6 @@
 [Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module4-solution/)
 
 [Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module5-solution/)
+
+
+&copy; Copyright 2020, All right reserved.
