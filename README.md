@@ -1,14 +1,14 @@
 ## [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
-## Coursera [View all](https://jahidofficial.github.io/MyCourses/Coursera/)
+## Coursera
 
 #### HTML, CSS, and Javascript for Web Developers
 
-[Certificate](Certificates/TDBRR3CVHGFY.jpg) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#html-css-and-javascript-for-web-developers) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#html-css-and-javascript-for-web-developers)
 
 #### Single Page Web Applications with AngularJS
 
-[Certificate](#) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#single-page-web-applications-with-angularjs) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#single-page-web-applications-with-angularjs)
 
 
 

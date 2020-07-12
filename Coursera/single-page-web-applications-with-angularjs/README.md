@@ -6,8 +6,6 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)
 
-| [full course code](https://github.com/jhu-ep-coursera/fullstack-course5/)
-
 | [Module 1 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module1-solution/)
 | [Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module2-solution/)
 | [Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module3-solution/)

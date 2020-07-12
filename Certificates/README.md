@@ -3,9 +3,11 @@
 # Coursera
 
 ### HTML, CSS, and Javascript for Web Developers
-#### Certificate [View](TDBRR3CVHGFY.jpg) | [Verify](https://www.coursera.org/verify/TDBRR3CVHGFY)
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/TDBRR3CVHGFY.jpg) | [Verify Certificate](https://www.coursera.org/verify/TDBRR3CVHGFY)
 
 ### Single Page Web Applications with AngularJS
-#### Certificate [View](.jpg) | [Verify](https://www.coursera.org/verify/)
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)
 
 #### &copy; Copyright 2020, All right reserved.
