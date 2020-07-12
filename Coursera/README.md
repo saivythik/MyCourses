@@ -12,5 +12,4 @@
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)
 [Full course code](https://github.com/jhu-ep-coursera/fullstack-course5/) | [My solutions](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
 
-
-&copy; Copyright 2020, All right reserved.
+#### &copy; Copyright 2020, All right reserved.
