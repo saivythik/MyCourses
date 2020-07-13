@@ -2,7 +2,7 @@
 
 ## [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
 
-#### HTML, CSS, and Javascript for Web Developers
+### HTML, CSS, and Javascript for Web Developers
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/TDBRR3CVHGFY.jpg) | [Verify Certificate](https://www.coursera.org/verify/TDBRR3CVHGFY)
 [Full course code](https://github.com/jhu-ep-coursera/fullstack-course4/) | [My solutions](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/)
