@@ -4,7 +4,7 @@
 
 ### Single Page Web Applications with AngularJS
 
-[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/8V4JVQ2XQZEG.jpg) | [Verify Certificate](https://www.coursera.org/verify/8V4JVQ2XQZEG)
 
 | [Module 1 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module1-solution/)
 | [Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module2-solution/)

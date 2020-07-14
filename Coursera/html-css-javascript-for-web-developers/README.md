@@ -6,6 +6,7 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/TDBRR3CVHGFY.jpg) | [Verify Certificate](https://www.coursera.org/verify/TDBRR3CVHGFY)
 
+<!--| [Module 1 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module1-solution/)-->
 | [Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module2-solution/)
 | [Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module3-solution/)
 | [Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/html-css-javascript-for-web-developers/module4-solution/)

@@ -4,11 +4,13 @@
 
 ### HTML, CSS, and Javascript for Web Developers
 
-[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/TDBRR3CVHGFY.jpg) | [Verify Certificate](https://www.coursera.org/verify/TDBRR3CVHGFY)
+<img src="TDBRR3CVHGFY.jpg" width="90%" align="center">
+[Verify Certificate](https://www.coursera.org/verify/TDBRR3CVHGFY)
 
 ### Single Page Web Applications with AngularJS
 
-[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)
+<img src="8V4JVQ2XQZEG.jpg" width="90%" align="center">
+[Verify Certificate](https://www.coursera.org/verify/8V4JVQ2XQZEG)
 
 
 
