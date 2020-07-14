@@ -6,11 +6,7 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/8V4JVQ2XQZEG.jpg) | [Verify Certificate](https://www.coursera.org/verify/8V4JVQ2XQZEG)
 
-[Module 1 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module1-solution/)
-[Module 2 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module2-solution/)
-[Module 3 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module3-solution/)
-[Module 4 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module4-solution/)
-[Module 5 solution](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module5-solution/)
+Module Assignment Solution: [1](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module1-solution/) | [2](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module2-solution/) | [3](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module3-solution/) | [4](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module4-solution/) | [5](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module5-solution/)
 
 
 #### &copy; Copyright 2020, All right reserved.
