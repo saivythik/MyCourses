@@ -10,6 +10,9 @@
 
 <img src="8V4JVQ2XQZEG.jpg">
 
+### Responsive Website Basics: Code with HTML, CSS, and JavaScript
+
+<img src="X58NMXF76FXX.jpg">
 
 
 #### &copy; Copyright 2020, All right reserved.
