@@ -20,34 +20,34 @@
 
 ### Introduction to Meteor.js Development
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### Web Application Development with JavaScript and MongoDB
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### Responsive Website Tutorial and Examples
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### Responsive Website Development and Design Capstone
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### SQL for Data Science
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### Data Wrangling, Analysis and AB Testing with SQL
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### Distributed Computing with Spark SQL
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ### SQL for Data Science Capstone Project
 
-<img src="#.jpg">
+<!--<img src="#.jpg">-->
 
 ##### &copy; Copyright 2020, All right reserved.
