@@ -20,7 +20,7 @@
 
 #### Introduction to Meteor.js Development
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-meteor_js-development) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-meteor_js-development)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-meteorjs-development) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-meteorjs-development)
 
 #### Web Application Development with JavaScript and MongoDB
 
@@ -28,26 +28,26 @@
 
 #### Responsive Website Tutorial and Examples
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-basics-code-with-html-css-and-javascript) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-basics-code-with-html-css-and-javascript)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-tutorial-and-examples) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-tutorial-and-examples)
 
 #### Responsive Website Development and Design Capstone
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-basics-code-with-html-css-and-javascript) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-basics-code-with-html-css-and-javascript)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-development-and-design-capstone) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-development-and-design-capstone)
 
 #### SQL for Data Science
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-basics-code-with-html-css-and-javascript) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-basics-code-with-html-css-and-javascript)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#sql-for-data-science) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#sql-for-data-science)
 
 #### Data Wrangling, Analysis and AB Testing with SQL
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-basics-code-with-html-css-and-javascript) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-basics-code-with-html-css-and-javascript)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#data-wrangling-analysis-and-ab-testing-with-sql) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#data-wrangling-analysis-and-ab-testing-with-sql)
 
 #### Distributed Computing with Spark SQL
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-basics-code-with-html-css-and-javascript) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-basics-code-with-html-css-and-javascript)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#distributed-computing-with-spark-sql) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#distributed-computing-with-spark-sql)
 
 #### SQL for Data Science Capstone Project
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-basics-code-with-html-css-and-javascript) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-basics-code-with-html-css-and-javascript)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#sql-for-data-science-capstone-project) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#sql-for-data-science-capstone-project)
 
-#### &copy; Copyright 2020, All right reserved.
+##### &copy; Copyright 2020, All right reserved.
