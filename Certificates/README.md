@@ -14,5 +14,33 @@
 
 <img src="X58NMXF76FXX.jpg">
 
+#### Responsive Web Design
+
+<img src="4LXL5GRN4CCK.jpg">
+
+#### Introduction to Meteor.js Development
+
+
+#### Web Application Development with JavaScript and MongoDB
+
+
+#### Responsive Website Tutorial and Examples
+
+
+#### Responsive Website Development and Design Capstone
+
+
+#### SQL for Data Science
+
+
+#### Data Wrangling, Analysis and AB Testing with SQL
+
+
+#### Distributed Computing with Spark SQL
+
+
+#### SQL for Data Science Capstone Project
+
+
 
 #### &copy; Copyright 2020, All right reserved.
