@@ -9,4 +9,4 @@
 Module Assignment Solution:  [1](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module1-solution/) [2](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module2-solution/) [3](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module3-solution/) [4](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module4-solution/) [5](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/module5-solution/)
 
 
-#### &copy; Copyright 2020, All right reserved.
+##### &copy; Copyright 2020, All right reserved.
