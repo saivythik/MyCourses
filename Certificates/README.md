@@ -36,7 +36,7 @@
 
 ### SQL for Data Science
 
-<!--<img src="#.jpg">-->
+<img src="9SLTK93GH6QR.jpg">
 
 ### Data Wrangling, Analysis and AB Testing with SQL
 

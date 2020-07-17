@@ -1,0 +1,67 @@
+1===========Yes
+
+2==========5
+SELECT 
+distinct Extended_step
+from salary_range_by_job_classification;
+
+3==========$100.00
+Select 
+min(Biweekly_high_Rate)
+From salary_range_by_job_classification
+where biweekly_high_rate <> '$0.00'
+
+4==========$9726.38
+SELECT 
+Max(Biweekly_high_Rate) 
+From salary_range_by_job_classification
+
+5==========B
+Select
+job_code,
+pay_type
+From salary_range_by_job_classification
+
+6==========12/26/2009
+Select
+grade,
+eff_date,
+sal_end_date
+From salary_range_by_job_classification
+where grade = 'Q90H0'
+
+7==========no
+Select
+biweekly_low_rate
+From salary_range_by_job_classification
+order by biweekly_low_rate asc
+
+8==========1
+SELECT 
+Job_Code,
+Salary_setID,
+Step
+FROM salary_range_by_job_classification
+where Job_Code between "0110" and "0400"
+
+9==========$0.00
+Select 
+biweekly_high_rate,
+biweekly_low_rate
+From salary_range_by_job_classification
+Where job_code="0170"
+
+10==========0
+Select
+Extended_step,
+Pay_Type
+From salary_range_by_job_classification
+Where Pay_Type in ('M', 'H', 'D');
+
+11==========1
+SELECT 
+Union_code,
+SetID,
+Step
+from salary_range_by_job_classification
+where Union_code = 990 and (SetID = 'SFMTA' or SetID = 'COMMN')

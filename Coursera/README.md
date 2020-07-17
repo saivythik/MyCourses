@@ -38,7 +38,7 @@
 
 ### SQL for Data Science
 
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/9SLTK93GH6QR.jpg) | [Verify Certificate](https://www.coursera.org/verify/9SLTK93GH6QR)
 
 ### Data Wrangling, Analysis and AB Testing with SQL
 
