@@ -18,19 +18,19 @@
 
 <img src="4LXL5GRN4CCK.jpg">
 
-### Introduction to Meteor.js Development
+<!--### Introduction to Meteor.js Development-->
 
 <!--<img src="#.jpg">-->
 
-### Web Application Development with JavaScript and MongoDB
+<!--### Web Application Development with JavaScript and MongoDB-->
 
 <!--<img src="#.jpg">-->
 
-### Responsive Website Tutorial and Examples
+<!--### Responsive Website Tutorial and Examples-->
 
 <!--<img src="#.jpg">-->
 
-### Responsive Website Development and Design Capstone
+<!--### Responsive Website Development and Design Capstone-->
 
 <!--<img src="#.jpg">-->
 
@@ -38,15 +38,23 @@
 
 <img src="9SLTK93GH6QR.jpg">
 
-### Data Wrangling, Analysis and AB Testing with SQL
+### Introduction to HTML5
+
+<img src="85DGSSL2W79P.jpg">
+
+### Introduction to CSS3
 
 <!--<img src="#.jpg">-->
 
-### Distributed Computing with Spark SQL
+### Interactivity with JavaScript
 
 <!--<img src="#.jpg">-->
 
-### SQL for Data Science Capstone Project
+<!--### Advanced Styling with Responsive Design-->
+
+<!--<img src="#.jpg">-->
+
+<!--### Web Design for Everybody Capstone-->
 
 <!--<img src="#.jpg">-->
 

@@ -20,19 +20,19 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/4LXL5GRN4CCK.jpg) | [Verify Certificate](https://www.coursera.org/verify/4LXL5GRN4CCK)
 
-### Introduction to Meteor.js Development
+<!--### Introduction to Meteor.js Development-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Web Application Development with JavaScript and MongoDB
+<!--### Web Application Development with JavaScript and MongoDB-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Responsive Website Tutorial and Examples
+<!--### Responsive Website Tutorial and Examples-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Responsive Website Development and Design Capstone
+<!--### Responsive Website Development and Design Capstone-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
@@ -40,15 +40,23 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/9SLTK93GH6QR.jpg) | [Verify Certificate](https://www.coursera.org/verify/9SLTK93GH6QR)
 
-### Data Wrangling, Analysis and AB Testing with SQL
+### Introduction to HTML5
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/85DGSSL2W79P.jpg) | [Verify Certificate](https://www.coursera.org/verify/85DGSSL2W79P)
+
+### Introduction to CSS3
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Distributed Computing with Spark SQL
+### Interactivity with JavaScript
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### SQL for Data Science Capstone Project
+<!--### Advanced Styling with Responsive Design-->
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
+<!--### Web Design for Everybody Capstone-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
