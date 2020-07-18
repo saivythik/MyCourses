@@ -46,7 +46,7 @@
 
 ### Introduction to CSS3
 
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/BLTX9FQWEUZP.jpg) | [Verify Certificate](https://www.coursera.org/verify/BLTX9FQWEUZP)
 
 ### Interactivity with JavaScript
 
