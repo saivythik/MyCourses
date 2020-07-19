@@ -48,11 +48,11 @@
 
 ### Interactivity with JavaScript
 
-<!--<img src="#.jpg">-->
+<img src="HCKWBRSVA2VU.jpg">
 
-<!--### Advanced Styling with Responsive Design-->
+### Advanced Styling with Responsive Design
 
-<!--<img src="#.jpg">-->
+<img src="7QSA2VK6N8EV.jpg">
 
 <!--### Web Design for Everybody Capstone-->
 

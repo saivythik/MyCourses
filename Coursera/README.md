@@ -50,11 +50,11 @@
 
 ### Interactivity with JavaScript
 
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/HCKWBRSVA2VU.jpg) | [Verify Certificate](https://www.coursera.org/verify/HCKWBRSVA2VU)
 
-<!--### Advanced Styling with Responsive Design-->
+### Advanced Styling with Responsive Design
 
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/7QSA2VK6N8EV.jpg) | [Verify Certificate](https://www.coursera.org/verify/7QSA2VK6N8EV)
 
 <!--### Web Design for Everybody Capstone-->
 
