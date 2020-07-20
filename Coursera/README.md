@@ -4,6 +4,8 @@
 
 ## John Hopkins University
 
+<blockquote>
+
 ### HTML, CSS, and Javascript for Web Developers
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/TDBRR3CVHGFY.jpg) | [Verify Certificate](https://www.coursera.org/verify/TDBRR3CVHGFY) | 
@@ -14,7 +16,11 @@
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/8V4JVQ2XQZEG.jpg) | [Verify Certificate](https://www.coursera.org/verify/8V4JVQ2XQZEG) | 
 [Full course code](https://github.com/jhu-ep-coursera/fullstack-course5/) | [My solutions](https://jahidofficial.github.io/MyCourses/Coursera/single-page-web-applications-with-angularjs/)
 
+</blockquote>
+
 ## University of London
+
+<blockquote>
 
 ### Responsive Website Basics: Code with HTML, CSS, and JavaScript
 
@@ -40,13 +46,21 @@
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
+</blockquote>
+
 ## University of California, Davis
+
+<blockquote>
 
 ### SQL for Data Science
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/9SLTK93GH6QR.jpg) | [Verify Certificate](https://www.coursera.org/verify/9SLTK93GH6QR)
 
+</blockquote>
+
 ## University of Michigan
+
+<blockquote>
 
 ### Introduction to HTML5
 
@@ -68,10 +82,16 @@
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
+</blockquote>
+
 ## Coursera Project Network
+
+<blockquote>
 
 ### Build Your Portfolio Website with HTML and CSS
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/DTAMPCR53KT7.jpg) | [Verify Certificate](https://www.coursera.org/verify/DTAMPCR53KT7)
+
+</blockquote>
 
 ##### &copy; Copyright 2020, All right reserved.
