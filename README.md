@@ -52,7 +52,7 @@
 
 ### Advanced Styling with Responsive Design
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#advanced-styling-with-responsive=design) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#advanced-styling-with-responsive=design)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#advanced-styling-with-responsive-design) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#advanced-styling-with-responsive-design)
 
 <!--### Web Design for Everybody Capstone-->
 
