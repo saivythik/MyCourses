@@ -18,22 +18,6 @@
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-web-design) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-web-design)
 
-<!--#### Introduction to Meteor.js Development-->
-
-<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-meteorjs-development) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-meteorjs-development)-->
-
-<!--#### Web Application Development with JavaScript and MongoDB-->
-
-<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#web-application-development-with-javascript-and-mongodb) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#web-application-development-with-javascript-and-mongodb)-->
-
-<!--#### Responsive Website Tutorial and Examples-->
-
-<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-tutorial-and-examples) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-tutorial-and-examples)-->
-
-<!--#### Responsive Website Development and Design Capstone-->
-
-<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-development-and-design-capstone) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-development-and-design-capstone)-->
-
 #### SQL for Data Science
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#sql-for-data-science) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#sql-for-data-science)
@@ -61,5 +45,13 @@
 ### Build Your Portfolio Website with HTML and CSS
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#build-your-portfolio-website-with-html-and-css) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#build-your-portfolio-website-with-html-and-css)
+
+<!--### Building Web Applications in PHP-->
+
+<!--### Introduction to Structured Query Language (SQL)-->
+
+<!--### Building Database Applications in PHP-->
+
+<!--### JavaScript, jQuery, and JSON-->
 
 ##### &copy; Copyright 2020, All right reserved.

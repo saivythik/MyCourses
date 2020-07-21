@@ -24,22 +24,6 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/4LXL5GRN4CCK.jpg) | [Verify Certificate](https://www.coursera.org/verify/4LXL5GRN4CCK)
 
-<!--### Introduction to Meteor.js Development-->
-
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
-
-<!--### Web Application Development with JavaScript and MongoDB-->
-
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
-
-<!--### Responsive Website Tutorial and Examples-->
-
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
-
-<!--### Responsive Website Development and Design Capstone-->
-
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
-
 ## University of California, Davis
 
 ### SQL for Data Science
@@ -65,6 +49,22 @@
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/7QSA2VK6N8EV.jpg) | [Verify Certificate](https://www.coursera.org/verify/7QSA2VK6N8EV)
 
 <!--### Web Design for Everybody Capstone-->
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
+### Building Web Applications in PHP
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
+### Introduction to Structured Query Language (SQL)
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
+### Building Database Applications in PHP
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
+### JavaScript, jQuery, and JSON
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 

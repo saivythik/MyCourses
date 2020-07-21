@@ -18,22 +18,6 @@
 
 <img src="4LXL5GRN4CCK.jpg">
 
-<!--### Introduction to Meteor.js Development-->
-
-<!--<img src="#.jpg">-->
-
-<!--### Web Application Development with JavaScript and MongoDB-->
-
-<!--<img src="#.jpg">-->
-
-<!--### Responsive Website Tutorial and Examples-->
-
-<!--<img src="#.jpg">-->
-
-<!--### Responsive Website Development and Design Capstone-->
-
-<!--<img src="#.jpg">-->
-
 ### SQL for Data Science
 
 <img src="9SLTK93GH6QR.jpg">
@@ -61,5 +45,21 @@
 ### Build Your Portfolio Website with HTML and CSS
 
 <img src="DTAMPCR53KT7.jpg">
+
+<!--### Building Web Applications in PHP-->
+
+<!--<img src="#.jpg">-->
+
+<!--### Introduction to Structured Query Language (SQL)-->
+
+<!--<img src="#.jpg">-->
+
+<!--### Building Database Applications in PHP-->
+
+<!--<img src="#.jpg">-->
+
+<!--### JavaScript, jQuery, and JSON-->
+
+<!--<img src="#.jpg">-->
 
 ##### &copy; Copyright 2020, All right reserved.
