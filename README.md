@@ -48,10 +48,18 @@
 
 <!--### Building Web Applications in PHP-->
 
+<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#building-web-applications-in-php) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#building-web-applications-in-php)-->
+
 <!--### Introduction to Structured Query Language (SQL)-->
+
+<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-structured-query-language-sql) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-structured-query-language-sql)-->
 
 <!--### Building Database Applications in PHP-->
 
+<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#building-database-applications-in-php) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#building-database-applications-in-php)-->
+
 <!--### JavaScript, jQuery, and JSON-->
+
+<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#javascript-jquery-and-json) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#javascript-jquery-and-json)-->
 
 ##### &copy; Copyright 2020, All right reserved.

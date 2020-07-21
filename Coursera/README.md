@@ -52,19 +52,19 @@
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Building Web Applications in PHP
+<!--### Building Web Applications in PHP-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Introduction to Structured Query Language (SQL)
+<!--### Introduction to Structured Query Language (SQL)-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### Building Database Applications in PHP
+<!--### Building Database Applications in PHP-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-### JavaScript, jQuery, and JSON
+<!--### JavaScript, jQuery, and JSON-->
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
