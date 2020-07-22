@@ -24,6 +24,10 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/4LXL5GRN4CCK.jpg) | [Verify Certificate](https://www.coursera.org/verify/4LXL5GRN4CCK)
 
+### Responsive Website Tutorial and Examples
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/J4MZE9X2ZUKB.jpg) | [Verify Certificate](https://www.coursera.org/verify/J4MZE9X2ZUKB)
+
 ## University of California, Davis
 
 ### SQL for Data Science

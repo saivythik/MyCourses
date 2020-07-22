@@ -18,6 +18,10 @@
 
 <img src="4LXL5GRN4CCK.jpg">
 
+### Responsive Website Tutorial and Examples
+
+<img src="J4MZE9X2ZUKB.jpg">
+
 ### SQL for Data Science
 
 <img src="9SLTK93GH6QR.jpg">

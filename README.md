@@ -18,6 +18,10 @@
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-web-design) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-web-design)
 
+### Responsive Website Tutorial and Examples
+
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-website-tutorial-and-examples) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#responsive-website-tutorial-and-examples)
+
 #### SQL for Data Science
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#sql-for-data-science) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#sql-for-data-science)
