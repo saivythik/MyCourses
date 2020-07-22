@@ -74,7 +74,7 @@
 
 ## The Hong Kong University of Science and Technology
 
-<!--### Front-End Web UI Frameworks and Tools: Bootstrap 4-->
+### Front-End Web UI Frameworks and Tools: Bootstrap 4
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
