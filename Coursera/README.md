@@ -60,9 +60,9 @@
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-<!--### Introduction to Structured Query Language (SQL)-->
+### Introduction to Structured Query Language (SQL)
 
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/SZRRXF5HZSLT.jpg) | [Verify Certificate](https://www.coursera.org/verify/SZRRXF5HZSLT)
 
 <!--### Building Database Applications in PHP-->
 

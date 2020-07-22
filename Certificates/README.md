@@ -58,9 +58,9 @@
 
 <!--<img src="#.jpg">-->
 
-<!--### Introduction to Structured Query Language (SQL)-->
+### Introduction to Structured Query Language (SQL)
 
-<!--<img src="#.jpg">-->
+<img src="SZRRXF5HZSLT.jpg">
 
 <!--### Building Database Applications in PHP-->
 

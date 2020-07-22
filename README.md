@@ -57,9 +57,9 @@
 
 <!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#building-web-applications-in-php) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#building-web-applications-in-php)-->
 
-<!--### Introduction to Structured Query Language (SQL)-->
+### Introduction to Structured Query Language (SQL)
 
-<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-structured-query-language-sql) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-structured-query-language-sql)-->
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-structured-query-language-sql) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-structured-query-language-sql)
 
 <!--### Building Database Applications in PHP-->
 
