@@ -52,6 +52,8 @@
 
 ### Front-End Web UI Frameworks and Tools: Bootstrap 4
 
+<img src="AMWG84TTJ5L5.jpg">
+
 
 <!--### Building Database Applications in PHP-->
 <!--### Building Web Applications in PHP-->
