@@ -58,6 +58,15 @@
 
 <img src="8MQM3LV4E7TW.jpg">
 
+### Git + GitHub for Open Source Collaboration
+
+<img src="9TR2JSGBRZ4U.jpg">
+
+### Git for Developers Using Github
+
+<img src="RZCX58YANQNS.jpg">
+
+
 <!--### Introduction to Git and GitHub-->
 <!--### using-git-for-distributed-development-->
 <!--### Building Database Applications in PHP-->

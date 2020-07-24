@@ -102,4 +102,12 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/DTAMPCR53KT7.jpg) | [Verify Certificate](https://www.coursera.org/verify/DTAMPCR53KT7)
 
+### Git + GitHub for Open Source Collaboration
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/9TR2JSGBRZ4U.jpg) | [Verify Certificate](https://www.coursera.org/verify/9TR2JSGBRZ4U)
+
+### Git for Developers Using Github
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/RZCX58YANQNS.jpg) | [Verify Certificate](https://www.coursera.org/verify/RZCX58YANQNS)
+
 ##### &copy; Copyright 2020, All right reserved.
