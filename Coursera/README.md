@@ -78,6 +78,24 @@
 
 [View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/AMWG84TTJ5L5.jpg) | [Verify Certificate](https://www.coursera.org/verify/AMWG84TTJ5L5)
 
+## Atlassian
+
+### Version Control with Git
+
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/8MQM3LV4E7TW.jpg) | [Verify Certificate](https://www.coursera.org/verify/8MQM3LV4E7TW)
+
+## Google
+
+### Introduction to Git and GitHub
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
+<!--## The Linux Foundation-->
+
+<!--### Using Git for Distributed Development-->
+
+<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+
 ## Coursera Project Network
 
 ### Build Your Portfolio Website with HTML and CSS

@@ -38,6 +38,10 @@
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-html5) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-html5)
 
+<!--### Introduction to Git and GitHub-->
+
+<!--[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-git-and-gitHub) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-git-and-gitHub)-->
+
 ### Introduction to Structured Query Language (SQL)
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#introduction-to-structured-query-language-sql) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#introduction-to-structured-query-language-sql)
@@ -65,6 +69,14 @@
 ### Single Page Web Applications with AngularJS
 
 [Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#single-page-web-applications-with-angularjs) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#single-page-web-applications-with-angularjs)
+
+### Using Git for Distributed Development
+
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#using-git-for-distributed-development) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#using-git-for-distributed-development)
+
+### Version Control with Git
+
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#version-control-with-git) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#version-control-with-git)
 
 <!--### Web Design for Everybody Capstone-->
 

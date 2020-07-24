@@ -54,10 +54,14 @@
 
 <img src="AMWG84TTJ5L5.jpg">
 
+### Version Control with Git
 
+<img src="8MQM3LV4E7TW.jpg">
+
+<!--### Introduction to Git and GitHub-->
+<!--### using-git-for-distributed-development-->
 <!--### Building Database Applications in PHP-->
 <!--### Building Web Applications in PHP-->
-<!--### Front-End Web UI Frameworks and Tools: Bootstrap 4-->
 <!--### JavaScript, jQuery, and JSON-->
 <!--### Web Design for Everybody Capstone-->
 
