@@ -90,11 +90,11 @@
 
 <!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
 
-<!--## The Linux Foundation-->
+## The Linux Foundation
 
-<!--### Using Git for Distributed Development-->
+### Using Git for Distributed Development
 
-<!--[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#.jpg) | [Verify Certificate](https://www.coursera.org/verify/#)-->
+[View Certificate](https://jahidofficial.github.io/MyCourses/Certificates/YU9HZBB4CRQZ.jpg) | [Verify Certificate](https://www.coursera.org/verify/YU9HZBB4CRQZ)
 
 ## Coursera Project Network
 

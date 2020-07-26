@@ -24,6 +24,7 @@
 
 ### Git + GitHub for Open Source Collaboration
 
+[Certificate](https://github.com/JAHIDofficial/MyCourses/#git--github-for-open-source-collaboration) | [Details](https://jahidofficial.github.io/MyCourses/Coursera/#git--github-for-open-source-collaboration)
 
 ### Git for Developers Using Github
 

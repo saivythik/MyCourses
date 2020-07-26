@@ -66,9 +66,11 @@
 
 <img src="RZCX58YANQNS.jpg">
 
+### Using Git for Distributed Development
+
+<img src="YU9HZBB4CRQZ.jpg">
 
 <!--### Introduction to Git and GitHub-->
-<!--### using-git-for-distributed-development-->
 <!--### Building Database Applications in PHP-->
 <!--### Building Web Applications in PHP-->
 <!--### JavaScript, jQuery, and JSON-->
