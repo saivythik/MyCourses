@@ -97,6 +97,6 @@
 
 ### Responsive Web Design
 
-[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#Responsive-Web-Design) | [Details](https://www.freecodecamp.org/certification/jahidofficial/responsive-web-design)
+[Certificate](https://jahidofficial.github.io/MyCourses/Certificates/#responsive-web-design-1) | [Details](https://www.freecodecamp.org/certification/jahidofficial/responsive-web-design)
 
 ##### &copy; Copyright 2020, All right reserved.
