@@ -1,7 +1,11 @@
 <html>
 
+<head>
+	<title>Md. Jahidul Islam Sujan 70a76cfa</title>
+</head>
+
 <body>
-	<title> Md. Jahidul Islam Sujan 70a76cfa </title>
+
 	<h1> Welcome to my guessing game</h1>
 
 	<?php
