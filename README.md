@@ -1,3 +1,3 @@
-# [MD. JAHIDUL ISLAM SUJAN](https://jahidofficial.github.io)
+# [MD. JAHIDUL ISLAM SUJAN](https://mrdeveloperjis.github.io)
 
-###### &copy; Copyright 2020, All right reserved.
+##### &copy; Copyright 2020, All right reserved.
