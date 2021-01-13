@@ -22,35 +22,39 @@
             color: black;
             font-family: sans-serif;
             text-decoration: none;
+            vertical-align: middle;
         }
 
         #font {
             font-family: 'Lobster', cursive;
         }
 
-        body {
-            margin: 0 5% 0 5%;
-        }
-
-        main{
-            max-width: 720px;
+        main {
+            max-width: 720;
             margin: auto;
+            padding: 20px;
         }
         
-        h1 {
-            font-size: 1.8em;
-            margin: 20px 0 20px 0;
+        header {
+            display: block;
+            margin: auto;
             text-align: center;
+        }
+
+        h1 {
+            margin: 20px auto 0 auto;
             text-transform: uppercase;
+            display: inline-block;
+            border-bottom: 1px solid black;
         }
 
         h1 a {
-            font-size: 1.2em;
+            font-size: 1.8em;
         }
 
         h2 {
             font-size: 1.5em;
-            margin: 20px 0 20px 0;
+            margin: 0 0 20px 0;
             text-align: center;
         }
 
@@ -58,12 +62,13 @@
             display: block;
             font-size: 1.2em;
             margin: 10px 0 10px 0;
-            
+
         }
 
         h4 {
             font-size: 1em;
-            margin: 0 0 2px 3%;
+            margin: 0 0 2px 2%;
+            overflow: hidden;
         }
 
         p {
@@ -71,14 +76,16 @@
             display: block;
             list-style-type: none;
             margin: 5px 0px 5px 2%;
+            overflow: hidden;
         }
 
         a {
-            display: block;
+            display: inline;
+            overflow: hidden;
         }
 
         a i {
-            padding: 0 5px 0 25px;
+            padding: 1px 5px;
             float: right;
         }
 
@@ -124,136 +131,135 @@
 
     <body class="container">
         <header>
-            <h1 id="font" class="h1"><a href="https://mrdeveloperjis.github.io" target="_blank" id="font"> md. jahidul islam sujan </a></h1>
-            <h1 id="font">certifications</h1>
+            <h1 class="h1"><a href="https://mrdeveloperjis.github.io" target="_blank" id="font"> md. jahidul islam sujan </a></h1>
         </header>
         <main>
             <h2 id="font">Coursera</h2>
             <section>
                 <h3>John Hopkins University</h3>
-                <p><a target="_blank" href="pdf/CourseraTDBRR3CVHGFY.pdf">HTML, CSS, and Javascript for Web Developers<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera8V4JVQ2XQZEG.pdf">Single Page Web Applications with AngularJS<i class="fas fa-external-link-alt"></i></a></p>
+                <p>HTML, CSS, and Javascript for Web Developers <a target="_blank" href="pdf/CourseraTDBRR3CVHGFY.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Single Page Web Applications with AngularJS <a target="_blank" href="pdf/Coursera8V4JVQ2XQZEG.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>University of Michigan</h3>
                 <!--			<h4>Web Applications for Everybody</h4>-->
-                <p><a target="_blank" href="pdf/CourseraSZRRXF5HZSLT.pdf">Introduction to Structured Query Language (SQL)<i class="fas fa-external-link-alt"></i></a></p>
-                <h4><a target="_blank" href="pdf/Coursera6XS6UFWGBVXX.pdf">Web Design for Everybody: Basics of Web Development &amp; Coding<i class="fas fa-external-link-alt"></i></a></h4>
-                <p><a target="_blank" href="pdf/Coursera85DGSSL2W79P.pdf">Introduction to HTML5<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraBLTX9FQWEUZP.pdf">Introduction to CSS3<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraHCKWBRSVA2VU.pdf">Interactivity with JavaScript<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera7QSA2VK6N8EV.pdf">Advanced Styling with Responsive Design<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera3LCAQXZHR2JU.pdf">Web Design for Everybody Capstone<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Introduction to Structured Query Language (SQL) <a target="_blank" href="pdf/CourseraSZRRXF5HZSLT.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <h4>Web Design for Everybody: Basics of Web Development &amp; Coding <a target="_blank" href="pdf/Coursera6XS6UFWGBVXX.pdf"><i class="far fa-file-pdf"></i></a></h4>
+                <p>Introduction to HTML5 <a target="_blank" href="pdf/Coursera85DGSSL2W79P.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Introduction to CSS3 <a target="_blank" href="pdf/CourseraBLTX9FQWEUZP.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Interactivity with JavaScript <a target="_blank" href="pdf/CourseraHCKWBRSVA2VU.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Advanced Styling with Responsive Design <a target="_blank" href="pdf/Coursera7QSA2VK6N8EV.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Web Design for Everybody Capstone <a target="_blank" href="pdf/Coursera3LCAQXZHR2JU.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>University of London</h3>
-                <!--			<h4>Responsive Website Development and Design</h4>-->
-                <p><a target="_blank" href="pdf/Coursera4LXL5GRN4CCK.pdf">Responsive Web Design<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraX58NMXF76FXX.pdf">Responsive Website Basics: Code with HTML, CSS, and JavaScript<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraJ4MZE9X2ZUKB.pdf">Responsive Website Tutorial and Examples<i class="fas fa-external-link-alt"></i></a></p>
+                <!--    <h4>Responsive Website Development and Design</h4>-->
+                <p>Responsive Web Design <a target="_blank" href="pdf/Coursera4LXL5GRN4CCK.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Responsive Website Basics: Code with HTML, CSS, and JavaScript <a target="_blank" href="pdf/CourseraX58NMXF76FXX.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Responsive Website Tutorial and Examples <a target="_blank" href="pdf/CourseraJ4MZE9X2ZUKB.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>University of California, Davis</h3>
-                <p><a target="_blank" href="pdf/Coursera9SLTK93GH6QR.pdf">SQL for Data Science<i class="fas fa-external-link-alt"></i></a></p>
-                <h4><a target="_blank" href="pdf/CourseraVZGNGFWW5MP7.pdf">Search Engine Optimization (SEO)<i class="fas fa-external-link-alt"></i></a></h4>
-                <p><a target="_blank" href="pdf/Coursera5ZZV6QSPGQEY.pdf">Introduction to Search Engine Optimization<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera2D6FQWX7KMRN.pdf">Search Engine Optimization Fundamentals<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraZWHADA2FENTZ.pdf">Optimizing a Website for Search<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera9T2DNWYVP5YR.pdf">Advanced Content and Social Tactics to Optimize SEO<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraWVWHDZEJ9PDW.pdf">Website Optimization Client Report Project<i class="fas fa-external-link-alt"></i></a></p>
+                <p>SQL for Data Science <a target="_blank" href="pdf/Coursera9SLTK93GH6QR.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <h4>Search Engine Optimization (SEO) <a target="_blank" href="pdf/CourseraVZGNGFWW5MP7.pdf"><i class="far fa-file-pdf"></i></a></h4>
+                <p>Introduction to Search Engine Optimization <a target="_blank" href="pdf/Coursera5ZZV6QSPGQEY.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Search Engine Optimization Fundamentals <a target="_blank" href="pdf/Coursera2D6FQWX7KMRN.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Optimizing a Website for Search <a target="_blank" href="pdf/CourseraZWHADA2FENTZ.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Advanced Content and Social Tactics to Optimize SEO <a target="_blank" href="pdf/Coursera9T2DNWYVP5YR.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Website Optimization Client Report Project <a target="_blank" href="pdf/CourseraWVWHDZEJ9PDW.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>The State University of New York</h3>
-                <p><a target="_blank" href="pdf/CourseraENF6Q273ACXA.pdf">How to Write a Resume (Project-Centered Course)<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraLFQAFXFUU76V.pdf">How To Create a Website in a Weekend! (Project-Centered Course)<i class="fas fa-external-link-alt"></i></a></p>
+                <p>How to Write a Resume (Project-Centered Course) <a target="_blank" href="pdf/CourseraENF6Q273ACXA.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>How To Create a Website in a Weekend! (Project-Centered Course) <a target="_blank" href="pdf/CourseraLFQAFXFUU76V.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>Duke University</h3>
-                <p><a target="_blank" href="pdf/Coursera3N3NCBJVAQ2X.pdf">Programming Foundations with JavaScript, HTML and CSS<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Programming Foundations with JavaScript, HTML and CSS <a target="_blank" href="pdf/Coursera3N3NCBJVAQ2X.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>The Hong Kong University of Science and Technology</h3>
-                <p><a target="_blank" href="pdf/CourseraAMWG84TTJ5L5.pdf">Front-End Web UI Frameworks and Tools: Bootstrap 4<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Front-End Web UI Frameworks and Tools: Bootstrap 4 <a target="_blank" href="pdf/CourseraAMWG84TTJ5L5.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>Atlassian</h3>
-                <p><a target="_blank" href="pdf/Coursera8MQM3LV4E7TW.pdf">Version Control with Git<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Version Control with Git <a target="_blank" href="pdf/Coursera8MQM3LV4E7TW.pdf"><i class="far fa-file-pdf"></i></a></p>
                 <h3>The Linux Foundation</h3>
-                <p><a target="_blank" href="pdf/CourseraYU9HZBB4CRQZ.pdf">Using Git for Distributed Development<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Using Git for Distributed Development <a target="_blank" href="pdf/CourseraYU9HZBB4CRQZ.pdf"><i class="far fa-file-pdf"></i></a></p>
             </section>
             <section>
                 <h3>Coursera Project Network</h3>
 
-                <p><a target="_blank" href="pdf/CourseraMVFHG45C4UPM.pdf">Introduction to HTML<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraDKLSE5BATBQN.pdf">Images and Links in HTML<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraPHYUFWQ2EHGM.pdf">Tables and Forms in HTML<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Introduction to HTML <a target="_blank" href="pdf/CourseraMVFHG45C4UPM.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Images and Links in HTML <a target="_blank" href="pdf/CourseraDKLSE5BATBQN.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Tables and Forms in HTML <a target="_blank" href="pdf/CourseraPHYUFWQ2EHGM.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraSFLWH9B96YZD.pdf">Introduction to CSS in Web Development<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera5JTQDJ6UY9D5.pdf">Getting Started with Cascading Style Sheet<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera4ETKFTASLCN5.pdf">Element, Class, and ID Selectors in CSS<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Introduction to CSS in Web Development <a target="_blank" href="pdf/CourseraSFLWH9B96YZD.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Getting Started with Cascading Style Sheet <a target="_blank" href="pdf/Coursera5JTQDJ6UY9D5.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Element, Class, and ID Selectors in CSS <a target="_blank" href="pdf/Coursera4ETKFTASLCN5.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraQM5UEG2SKBXT.pdf">Introduction to Javascript: The Basics<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraZB2URYAJPA47.pdf">Become a JavaScript Pro with these 7 Skills<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Introduction to Javascript: The Basics <a target="_blank" href="pdf/CourseraQM5UEG2SKBXT.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Become a JavaScript Pro with these 7 Skills <a target="_blank" href="pdf/CourseraZB2URYAJPA47.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/Coursera5CY5VYAZMCJX.pdf">HTML and CSS: Building a Single-Page Website<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraDTAMPCR53KT7.pdf">Build Your Portfolio Website with HTML and CSS<i class="fas fa-external-link-alt"></i></a></p>
+                <p>HTML and CSS: Building a Single-Page Website <a target="_blank" href="pdf/Coursera5CY5VYAZMCJX.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build Your Portfolio Website with HTML and CSS <a target="_blank" href="pdf/CourseraDTAMPCR53KT7.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraRZCX58YANQNS.pdf">Git for Developers Using Github<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera9TR2JSGBRZ4U.pdf">Git + GitHub for Open Source Collaboration<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraNQEF8KNRYSSD.pdf">Command Line in Linux<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Git for Developers Using Github <a target="_blank" href="pdf/CourseraRZCX58YANQNS.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Git + GitHub for Open Source Collaboration <a target="_blank" href="pdf/Coursera9TR2JSGBRZ4U.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Command Line in Linux <a target="_blank" href="pdf/CourseraNQEF8KNRYSSD.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraEVDZF8XR4RND.pdf">Build a Full Website using WordPress<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraZDH7W7AH55UD.pdf">Use WordPress to Create a Blog for your Business<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraJS4XBLPDF7X6.pdf">Develop a Company Website with Wix<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Build a Full Website using WordPress <a target="_blank" href="pdf/CourseraEVDZF8XR4RND.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Use WordPress to Create a Blog for your Business <a target="_blank" href="pdf/CourseraZDH7W7AH55UD.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Develop a Company Website with Wix <a target="_blank" href="pdf/CourseraJS4XBLPDF7X6.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraW5FVBKCJGAC5.pdf">Increase SEO Traffic with WordPress<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera2CKGSKZCF5SE.pdf">Brand Marketing and SEO Tools using Wix<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Increase SEO Traffic with WordPress <a target="_blank" href="pdf/CourseraW5FVBKCJGAC5.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Brand Marketing and SEO Tools using Wix <a target="_blank" href="pdf/Coursera2CKGSKZCF5SE.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraYR8DZML985KR.pdf">Gmail: The Foundation To Accessing Google Apps<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Gmail: The Foundation To Accessing Google Apps <a target="_blank" href="pdf/CourseraYR8DZML985KR.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraV5B4CEP2AYAQ.pdf">Introduction to Google Docs<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraNUNMTRQMCRR8.pdf">Create a Resume and Cover Letter with Google Docs<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Introduction to Google Docs <a target="_blank" href="pdf/CourseraV5B4CEP2AYAQ.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create a Resume and Cover Letter with Google Docs <a target="_blank" href="pdf/CourseraNUNMTRQMCRR8.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraSBLHLEDKFNWQ.pdf">Spreadsheets for Beginners using Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraF9NLF3BZUTBP.pdf">Create a Budget with Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraWSNJKJTW3BSS.pdf">Build a Budget and Analyze Variance using Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraPA634KHJMRJY.pdf">Create a Financial Statement using Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera649DS8VZNQMX.pdf">Create Customer Support Data with Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera8RGRLB9X6LQH.pdf">Business Operations Support in Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraRWT5TQM789BA.pdf">Create Charts and Dashboard using Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraERQM94277B4E.pdf">Building Candlestick Charts with Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera79KW5SZERLQW.pdf">Compare Stock Returns with Google Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraCYPXAR79JYRP.pdf">Game-Theoretic Solution Concept with Spread Sheets<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera4PLFDR9LTAHH.pdf">Automating Team Communication with Google Sheets and Apps Script<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Spreadsheets for Beginners using Google Sheets <a target="_blank" href="pdf/CourseraSBLHLEDKFNWQ.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create a Budget with Google Sheets <a target="_blank" href="pdf/CourseraF9NLF3BZUTBP.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build a Budget and Analyze Variance using Google Sheets <a target="_blank" href="pdf/CourseraWSNJKJTW3BSS.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create a Financial Statement using Google Sheets <a target="_blank" href="pdf/CourseraPA634KHJMRJY.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create Customer Support Data with Google Sheets <a target="_blank" href="pdf/Coursera649DS8VZNQMX.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Business Operations Support in Google Sheets <a target="_blank" href="pdf/Coursera8RGRLB9X6LQH.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create Charts and Dashboard using Google Sheets <a target="_blank" href="pdf/CourseraRWT5TQM789BA.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Building Candlestick Charts with Google Sheets <a target="_blank" href="pdf/CourseraERQM94277B4E.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Compare Stock Returns with Google Sheets <a target="_blank" href="pdf/Coursera79KW5SZERLQW.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Game-Theoretic Solution Concept with Spread Sheets <a target="_blank" href="pdf/CourseraCYPXAR79JYRP.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Automating Team Communication with Google Sheets and Apps Script <a target="_blank" href="pdf/Coursera4PLFDR9LTAHH.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraPZUTR4RRQFE3.pdf">Create Informative Presentations with Google Slides<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Create Informative Presentations with Google Slides <a target="_blank" href="pdf/CourseraPZUTR4RRQFE3.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraL92G6N3UPYDD.pdf">Improve Business Performance with Google Forms<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraRB6GA9J2EB69.pdf">Using Google Forms to Analyze User Research Data<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Improve Business Performance with Google Forms <a target="_blank" href="pdf/CourseraL92G6N3UPYDD.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Using Google Forms to Analyze User Research Data <a target="_blank" href="pdf/CourseraRB6GA9J2EB69.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/Coursera94DLYPUH8CE4.pdf">Intro to Scheduling with When I Work<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraEDMV3DJQNUGB.pdf">Create Employee Management System with When I work<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Intro to Scheduling with When I Work <a target="_blank" href="pdf/Coursera94DLYPUH8CE4.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create Employee Management System with When I work <a target="_blank" href="pdf/CourseraEDMV3DJQNUGB.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraFVJ98ZD8N4RN.pdf">Google Ads for Beginners<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraQG9RBMKJVV8C.pdf">Getting Started in Google Analytics<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera7F3MQVPNB478.pdf">Set up Google Analytics for a single page website<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraAS5QULWZP2QV.pdf">Custom Reports in Google Analytics<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Google Ads for Beginners <a target="_blank" href="pdf/CourseraFVJ98ZD8N4RN.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Getting Started in Google Analytics <a target="_blank" href="pdf/CourseraQG9RBMKJVV8C.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Set up Google Analytics for a single page website <a target="_blank" href="pdf/Coursera7F3MQVPNB478.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Custom Reports in Google Analytics <a target="_blank" href="pdf/CourseraAS5QULWZP2QV.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/Coursera69J46WYPE7D3.pdf">Building a Business Presence With Facebook Marketing<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Building a Business Presence With Facebook Marketing <a target="_blank" href="pdf/Coursera69J46WYPE7D3.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/Coursera7CZQ3MSHGELF.pdf">Build a Simple App in Android Studio with Java<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraQT32YGP7WR7E.pdf">Build a Linear Layout App in Android Studio<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera8QUXJP6DDDQQ.pdf">Build a Relative Layout App in Android Studio<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraCRCVFTQD5RVA.pdf">Build a Table Layout App in Android Studio<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera6N5HTHYAWG4R.pdf">Build an App in Android Studio using Static Files<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraTZLUK6VFX984.pdf">Create Your First Application with Java Using Networking<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraJPG3NLL69JUV.pdf">Building a Text-Based Bank in Java<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraQ7DTYC7WD66B.pdf">Build a Persistent Storage App in Android Studio<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Build a Simple App in Android Studio with Java <a target="_blank" href="pdf/Coursera7CZQ3MSHGELF.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build a Linear Layout App in Android Studio <a target="_blank" href="pdf/CourseraQT32YGP7WR7E.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build a Relative Layout App in Android Studio <a target="_blank" href="pdf/Coursera8QUXJP6DDDQQ.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build a Table Layout App in Android Studio <a target="_blank" href="pdf/CourseraCRCVFTQD5RVA.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build an App in Android Studio using Static Files <a target="_blank" href="pdf/Coursera6N5HTHYAWG4R.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create Your First Application with Java Using Networking <a target="_blank" href="pdf/CourseraTZLUK6VFX984.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Building a Text-Based Bank in Java <a target="_blank" href="pdf/CourseraJPG3NLL69JUV.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Build a Persistent Storage App in Android Studio <a target="_blank" href="pdf/CourseraQ7DTYC7WD66B.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraTYBVTSLXNHB6.pdf">Build a Google Firebase Web Application<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera2CQ5RG3NMD2K.pdf">Project: Creating Your First C++ Application<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraEWFQAN2SFM2Z.pdf">Building a Calculator using C# in Visual Studio<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Build a Google Firebase Web Application <a target="_blank" href="pdf/CourseraTYBVTSLXNHB6.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Project: Creating Your First C++ Application <a target="_blank" href="pdf/Coursera2CQ5RG3NMD2K.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Building a Calculator using C# in Visual Studio <a target="_blank" href="pdf/CourseraEWFQAN2SFM2Z.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraWGSDXRD3BBQT.pdf">Use Mailchimp to Build an E-mail Marketing Campaign<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Use Mailchimp to Build an E-mail Marketing Campaign <a target="_blank" href="pdf/CourseraWGSDXRD3BBQT.pdf"><i class="far fa-file-pdf"></i></a></p>
 
-                <p><a target="_blank" href="pdf/CourseraKM8ZXRWL6ZFP.pdf">Portfolio Diversification using Correlation Matrix<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraBASAEHV5JLTQ.pdf">Portfolio Optimization using Markowitz Model<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/Coursera9FPPSWNP3JU4.pdf">Use Canva to Create Social Media Marketing Designs<i class="fas fa-external-link-alt"></i></a></p>
-                <p><a target="_blank" href="pdf/CourseraV4WYDUKARX2G.pdf">Create a Business Marketing Brand Kit Using Canva<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Portfolio Diversification using Correlation Matrix <a target="_blank" href="pdf/CourseraKM8ZXRWL6ZFP.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Portfolio Optimization using Markowitz Model <a target="_blank" href="pdf/CourseraBASAEHV5JLTQ.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Use Canva to Create Social Media Marketing Designs <a target="_blank" href="pdf/Coursera9FPPSWNP3JU4.pdf"><i class="far fa-file-pdf"></i></a></p>
+                <p>Create a Business Marketing Brand Kit Using Canva <a target="_blank" href="pdf/CourseraV4WYDUKARX2G.pdf"><i class="far fa-file-pdf"></i></a></p>
             </section>
             <h2 id="font">Free Code Camp</h2>
             <section>
-                <p><a target="_blank" href="pdf/freecodecamp_responsive-web-design.pdf">Responsive Web Design<i class="fas fa-external-link-alt"></i></a></p>
+                <p>Responsive Web Design <a target="_blank" href="pdf/freecodecamp_responsive-web-design.pdf"><i class="far fa-file-pdf"></i></a></p>
             </section>
             <h2 id="font">LinkedIn Learning</h2>
             <section>
-                <p><a target="_blank" href="pdf/LinkedIn_CertificateOfCompletion_HTML_Essential_Training.pdf">HTML Essential Training<i class="fas fa-external-link-alt"></i></a></p>
+                <p>HTML Essential Training <a target="_blank" href="pdf/LinkedIn_CertificateOfCompletion_HTML_Essential_Training.pdf"><i class="far fa-file-pdf"></i></a></p>
             </section>
         </main>
         <footer>
