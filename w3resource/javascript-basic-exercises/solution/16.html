@@ -15,16 +15,19 @@
 </head>
 
 <body>
+    <input type="number" placeholder="enter a number" id="input1">
+    <input type="number" placeholder="enter a number" id="input2">
+    <button type="submit" onclick="check()">check</button>
     <script>
-        var x = 5;
-        var y = 6;
-        var z = 7;
-
-        var s = (x + y + z) / 2;
-
-        var area = Math.sqrt(s * (s - x) * (s - y) * (s - z));
-
-        document.write("arm size: " + x + " & " + y + " & " + z + "<br>" + "area is: " + area.toFixed(3));
+        function check() {
+            var input1 = parseInt(document.getElementById("input1").value);
+            var input2 = parseInt(document.getElementById("input2").value);
+            if (input1 == input2){
+                document.write((input1+input2)*3);
+            }else {
+                document.write(input1+input2);
+            }
+        }
     </script>
 </body>
 

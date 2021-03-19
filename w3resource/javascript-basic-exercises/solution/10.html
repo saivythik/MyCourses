@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +13,25 @@
     <title>JavaScript Basic Exercises</title>
 
 </head>
+
 <body>
-    
+    <input type="number" placeholder="enter first number" id="n1">
+    <input type="number" placeholder="enter second number" id="n2">
+    <button type="submit" onclick="multply()">*</button>
+    <button type="submit" onclick="divide()">/</button>
+    <script>
+        function multply() {
+            var n1 = parseInt(document.getElementById("n1").value);
+            var n2 = parseInt(document.getElementById("n2").value);
+            document.write(n1 * n2);
+        }
+
+        function divide() {
+            var n1 = parseInt(document.getElementById("n1").value);
+            var n2 = parseInt(document.getElementById("n2").value);
+            document.write(n1 / n2);
+        }
+    </script>
 </body>
+
 </html>

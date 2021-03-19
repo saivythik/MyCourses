@@ -15,16 +15,20 @@
 </head>
 
 <body>
+    <input type="number" placeholder="enter a number" id="input">
+    <button type="submit" onclick="check()">check</button>
     <script>
-        var x = 5;
-        var y = 6;
-        var z = 7;
+        function check() {
+            var input = parseInt(document.getElementById("input").value);
 
-        var s = (x + y + z) / 2;
-
-        var area = Math.sqrt(s * (s - x) * (s - y) * (s - z));
-
-        document.write("arm size: " + x + " & " + y + " & " + z + "<br>" + "area is: " + area.toFixed(3));
+            if (input >= 20 && input <= 100) {
+                document.write(input + " is between 20 and 100");
+            } else if (input >= 20 && input <= 400) {
+                document.write(input + " is between 20 and 400");
+            } else {
+                document.write(input + " is not between 20 and 100 or 400");
+            }
+        }
     </script>
 </body>
 

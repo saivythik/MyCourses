@@ -13,6 +13,36 @@
 
 </head>
 <body>
+        <input type="number" placeholder="enter a year" id="year">
+
+        <br><br>
+
+        <button type="submit" onclick="calculate()">calculate</button>
+
+    <script>
+
+        function calculate(){
+            var inputYear = parseInt(document.getElementById("year").value);
+            var output = "";
+
+            if (inputYear % 4 == 0 && inputYear % 100 == 0 && inputYear % 400 == 0 ){
+                output = inputYear + " is a leap year";
+                document.write(output);
+            }
+            else if (inputYear % 4 == 0 && inputYear % 100 != 0 && inputYear % 400 != 0 ){
+                output = inputYear + " is a leap year";
+                document.write(output);
+            }
+            else {
+                output = inputYear + " is not a leap year";
+                document.write(output);
+            }
+
+
+           
+        }
+
+    </script>
     
 </body>
 </html>

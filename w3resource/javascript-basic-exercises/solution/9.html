@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +13,31 @@
     <title>JavaScript Basic Exercises</title>
 
 </head>
+
 <body>
-    
+    <div></div>
+    <script>
+        setInterval(function () {
+            var countDownDate = new Date("Nov 25, 2021 00:00:00").getTime();
+
+            var nowTime = new Date().getTime();
+
+            var distance = countDownDate - nowTime;
+
+            var days = Math.floor(distance / (24 * 60 * 60 * 1000));
+            var hours = Math.floor((distance % (24 * 60 * 60 * 1000)) / (60 * 60 * 1000));
+            var minutes = Math.floor((distance % (60 * 60 * 1000)) / (60 * 1000));
+            var seconds = Math.floor((distance % (60 * 1000)) / (1000));
+
+            document.querySelector("div").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds +
+                "s ";
+
+            if (distance < 0) {
+                clearInterval();
+                document.querySelector("div").innerHTML = "Hello !";
+            }
+        }, 1000)
+    </script>
 </body>
+
 </html>

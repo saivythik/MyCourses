@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,9 +11,41 @@
     <meta http-equiv="refresh" content="300" />
     <link rel="icon" href="../../../mdjahidulislamsujan-favicon.jpg" type="image/x-icon" />
     <title>JavaScript Basic Exercises</title>
+    <style>
+        * {
+            margin: 40px;
+            padding: 0;
+            text-align: center;
+            font-size: large;
+        }
 
+    </style>
 </head>
+
 <body>
-    
+    <b><span id="showDay"></span></b>
+
+    <script>
+        setInterval(function () {
+
+            var clock = new Date();
+
+            var dateTime = clock.getDate();
+            var monthNum = clock.getMonth();
+            var fullYear = clock.getFullYear();
+            var partTime = "0";
+
+            if (dateTime < 10) {
+                dateTime = "0" + dateTime;
+            }
+            if (monthNum < 10) {
+                monthNum = "0" + monthNum;
+            }
+
+            document.getElementById("showDay").innerHTML = dateTime + "/" + monthNum + "/" + fullYear;
+
+        }, 1000)
+    </script>
 </body>
+
 </html>

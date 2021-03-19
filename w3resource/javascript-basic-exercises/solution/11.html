@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +13,26 @@
     <title>JavaScript Basic Exercises</title>
 
 </head>
+
 <body>
-    
+    <input type="number" placeholder="enter temperature" id="input"><br>
+    <br><button type="submit" onclick="dc2df()"> Celcius to  Farenhite </button>
+    <br><button type="submit" onclick="df2dc()"> Farenhite to  Celcius </button>
+    <script>
+        function dc2df() {
+            var input = parseInt(document.getElementById("input").value);
+
+            var result = ((input * 9) / 5) + 32;
+            document.write(input + " degree celcius is equal " + result.toFixed(2) + " degree farenhite.");
+        }
+
+        function df2dc() {
+            var input = parseInt(document.getElementById("input").value);
+
+            var result = ((input - 32) / 9) * 5;
+            document.write(input + " degree celcius is equal " + result.toFixed(2) + " degree farenhite.");
+        }
+    </script>
 </body>
+
 </html>
