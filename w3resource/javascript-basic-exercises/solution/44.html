@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Md. Jahidul Islam Sujan" />
+    <meta name="copyright" content="Md. Jahidul Islam Sujan" />
+    <meta name="description" content="w3resouces :: JavaScript Basic Exercises" />
+    <meta http-equiv="refresh" content="300" />
+    <link rel="icon" href="../../../mdjahidulislamsujan-favicon.jpg" type="image/x-icon" />
+    <title>JavaScript Basic Exercises</title>
+
+</head>
+
+<body>
+    <input type="number" placeholder="enter a number" id="input1">
+    <input type="number" placeholder="enter a number" id="input2">
+    <input type="number" placeholder="enter a number" id="input3">
+    <button type="submit" onclick="check()">check</button>
+    <script>
+        function check() {
+            var input1 = parseInt(document.getElementById("input1").value);
+            var input2 = parseInt(document.getElementById("input2").value);
+            var input3 = parseInt(document.getElementById("input3").value);
+
+            if (input1 >= 20) {
+                if (input1 < input2) {
+                    document.write(input1 + " is greater than or equal 20 and less than " + input2);
+                } else if (input1 < input3) {
+                    document.write(input1 + " is greater than or equal 20 and less than " + input3);
+                } else {
+                    document.write(input1 + " is greater than or equal 20 and is not less than " + input2 + "or" +
+                        input3);
+                }
+            }else if (input2 >= 20) {
+                if (input2 < input1) {
+                    document.write(input2 + " is greater than or equal 20 and less than " + input1);
+                } else if (input2 < input3) {
+                    document.write(input2 + " is greater than or equal 20 and less than " + input3);
+                } else {
+                    document.write(input2 + " is greater than or equal 20 and is not less than " + input1 + "or" +
+                        input3);
+                }
+            } else if (input3 >= 20) {
+                if (input3 < input2) {
+                    document.write(input3 + " is greater than or equal 20 and less than " + input2);
+                } else if (input3 < input1) {
+                    document.write(input3 + " is greater than or equal 20 and less than " + input1);
+                } else {
+                    document.write(input3 + " is greater than or equal 20 and is not less than " + input1 + "or" +
+                        input2);
+                }
+            } 
+
+
+
+        }
+    </script>
+</body>
+
+</html>

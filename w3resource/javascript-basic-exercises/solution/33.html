@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Md. Jahidul Islam Sujan" />
+    <meta name="copyright" content="Md. Jahidul Islam Sujan" />
+    <meta name="description" content="w3resouces :: JavaScript Basic Exercises" />
+    <meta http-equiv="refresh" content="300" />
+    <link rel="icon" href="../../../mdjahidulislamsujan-favicon.jpg" type="image/x-icon" />
+    <title>JavaScript Basic Exercises</title>
+
+</head>
+
+<body>
+    <input type="number" placeholder="enter a number" id="input1">
+    <input type="number" placeholder="enter a number" id="input2">
+    <button type="submit" onclick="check()">check</button>
+    <script>
+        function check() {
+            var input1 = parseInt(document.getElementById("input1").value);
+            var input2 = parseInt(document.getElementById("input2").value);
+            if ((input1 >= 40 && input1 <= 60) && (input2 >= 40 && input2 <= 60) ) {
+                document.write(input1 + " & " + input2 + " is in the range of 40...60");
+            } else if ((input1 >= 70 && input1 <= 100) && (input2 >= 70 && input2 <= 100) ) {
+                document.write(input1 + " & " + input2 + " is in the range of 70...100");
+            }else {
+                return false;
+            }
+        }
+    </script>
+</body>
+
+</html>
