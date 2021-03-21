@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +13,30 @@
     <title>JavaScript Basic Exercises</title>
 
 </head>
+
 <body>
-    
+    <input type="text" placeholder="enter a word" id="input1">
+    <input type="number" placeholder="enter a number" id="input2">
+    <button type="submit" onclick="check()">check</button>
+
+    <script>
+        function check() {
+            var input1 = document.getElementById("input1").value;
+            var input2 = parseInt(document.getElementById("input2").value);
+
+            var wordLenth = input1.length;
+            numberCount = input2 - 1;
+
+            if (numberCount < wordLenth) {
+                part1 = input1.substring(0, numberCount);
+                part2 = input1.substring(numberCount + 1, wordLenth);
+
+                document.write(part1 + part2)
+            } else {
+                document.write("Your given number is bigger than word character.");
+            }
+        }
+    </script>
 </body>
+
 </html>

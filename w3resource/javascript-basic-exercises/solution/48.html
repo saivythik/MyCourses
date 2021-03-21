@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +13,20 @@
     <title>JavaScript Basic Exercises</title>
 
 </head>
+
 <body>
-    
+    <input type="text" placeholder="enter a word" id="input">
+    <button type="submit" onclick="reverseIt()">reverse</button>
+
+    <script>
+        function reverseIt() {
+            var input = document.getElementById("input").value;
+
+            output = input.split("").reverse().join("");
+
+            document.write(output);
+        }
+    </script>
 </body>
+
 </html>
